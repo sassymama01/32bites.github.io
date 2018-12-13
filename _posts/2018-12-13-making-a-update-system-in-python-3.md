@@ -38,4 +38,4 @@ Then we use json to parse the version key on both variables, then store the vers
 Then we pass both variables into list() to convert the variables into a list.
 We use the lists to grab the number from where we know where numbers are located,
 and use int() to convert the numbers.
-then we compare the numbers in an if statement, and then we know whether an update is available.
+Then we compare the numbers in an if statement, and then we know whether an update is available.
