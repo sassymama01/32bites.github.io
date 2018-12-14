@@ -2,6 +2,7 @@
 layout: post
 title: "Making a Update System In Python 3"
 author: "Noah Scott"
+tags: [python, programming]
 ---
 
 # Prolouge
@@ -57,4 +58,4 @@ and use int() to convert the numbers.
 Then we compare the numbers in an if statement, and then we know whether an update is available.
 
 # Limitations
-Sadly if we use this method, the version numbers must all be one character long, aka no double digits or bigger. just single digits.
+Sadly if we use this method, the version numbers must all be one character long, aka no double digits or bigger. Just single digits.
