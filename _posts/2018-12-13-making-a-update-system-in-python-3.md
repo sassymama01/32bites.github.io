@@ -5,7 +5,7 @@ author: "Noah Scott"
 tags: [python, programming]
 ---
 
-# Prolouge
+# prologue
 Some people may wonder, why do this?
 
 I have a simple answer to that question, usability.
