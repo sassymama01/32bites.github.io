@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Making a Update System In Python 3"
+author: "Noah Scott"
 ---
 
 # Prolouge
